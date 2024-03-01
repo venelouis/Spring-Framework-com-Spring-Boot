@@ -1,6 +1,6 @@
 # Spring-Framework-com-Spring-Boot
 Imersão no Spring Framework com Spring Boot (dio.me)
-O professor @glysns (Gleyson Sampaio) utiliza o seguinte tutorial: https://glysns.gitbook.io/spring-framework infelizmente como o curso é antigo e utiliza java 8 e estou utilizando java 21, entao nem todos os passos foram possíveis e serem seguidos.
+O professor [@glysns](https://github.com/glysns) (Gleyson Sampaio) utiliza o seguinte tutorial: https://glysns.gitbook.io/spring-framework
 
 
 <a align="" href="https://github.com/venelouis/Spring-Framework-com-Spring-Boot/fork">
